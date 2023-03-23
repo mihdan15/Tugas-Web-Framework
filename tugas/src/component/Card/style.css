@@ -1,0 +1,27 @@
+.card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+}
+.data {
+  display: flex;
+  align-items: center;
+  padding: 40px;
+  border-radius: 10px;
+  background-color: #f4dfb6;
+  width: 400px;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+.informasi {
+    text-align: center;
+}
+.gambar img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50px;
+  padding: 20px;
+  border: 1px dotted black;
+}

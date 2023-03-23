@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Muhammad Arifin",
+        "phone": "0987654321",
+        "email": "arifin@gmail.com",
+        "image": "https://cdn-icons-png.flaticon.com/128/5772/5772968.png"
+    },
+    {
+        "name": "Zainal",
+        "phone": "423467867",
+        "email": "zainal@gmail.com",
+        "image": "https://cdn-icons-png.flaticon.com/128/10030/10030490.png"
+    },
+    {
+        "name": "Mubin",
+        "phone": "12132414124",
+        "email": "mubin@gmail.com",
+        "image": "https://cdn-icons-png.flaticon.com/128/921/921089.png"
+    },
+    {
+        "name": "Paijo",
+        "phone": "57675756",
+        "email": "paijo@gmail.com",
+        "image": "https://cdn-icons-png.flaticon.com/128/122/122491.png"
+    }
+]

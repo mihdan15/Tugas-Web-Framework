@@ -1,0 +1,63 @@
+/* Gaya untuk kontainer todo */
+.todo {
+  background-color: #f8f8f8;
+  padding: 20px;
+  width: 400px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+/* Gaya untuk judul */
+.title {
+  text-align: center;
+  color: #333;
+}
+
+/* Gaya untuk form todo */
+.todo-form {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.todo-form p {
+  margin-right: 10px;
+}
+
+.todo-form input[type="text"] {
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: none;
+  font-size: 16px;
+}
+
+.todo-form button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.todo-form button:hover {
+  background-color: #555;
+}
+
+/* Gaya untuk list todo */
+.todo-list ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.todo-list li {
+  padding: 10px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #333;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
